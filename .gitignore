@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.hash.cpython-*
+
+# VSCode
+.vscode/
+
+# 仮想環境
+.venv/
+
+# ONNXエクスポート後の出力ファイル
+# *.onnx
+
+# OS特有のファイル
+Thumbs.db
+Desktop.ini
+.DS_Store
+pip_install.txt
